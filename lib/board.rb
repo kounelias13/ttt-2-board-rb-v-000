@@ -1,1 +1,1 @@
-test = "board"
+Board = "board"
